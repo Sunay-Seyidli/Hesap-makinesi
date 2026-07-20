@@ -1,0 +1,6 @@
+{
+  "name": "Hesap Makinesi",
+  "description": "Modern, şık tasarımlı, geçmiş hafızalı ve hem temel hem bilimsel fonksiyonları destekleyen web tabanlı hesap makinesi uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
